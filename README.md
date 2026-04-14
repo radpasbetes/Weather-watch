@@ -73,8 +73,3 @@ Here are some useful resources to learn more about the technologies used:
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 See the [LICENSE](./LICENSE) file for more information.
-
-## 👨‍💻 Author
-
-**Kaushik Verma**  
-[LinkedIn](https://www.linkedin.com/in/kaushik-verma-2b5515254/) | [Portfolio](https://kaushikverma.me/)
