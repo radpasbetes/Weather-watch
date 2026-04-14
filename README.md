@@ -3,8 +3,6 @@
 
 **Weather Watch** is a modern, responsive weather dashboard built using **Next.js 15** and **React 19**, providing real-time weather updates, forecasts, and visual insights in an interactive and user-friendly interface.
 
-![Weather Watch Dashboard](./public/dashboard_screenshot.png)
-
 ## ✨ Features
 
 - **Real-time Weather Data:** View current conditions, 5-day forecasts, and air quality information.
